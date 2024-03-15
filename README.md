@@ -6,5 +6,6 @@ Utilizes PostgreSQL and pgAdmin4 to store the data, written with expressJS to cr
 
 Offers users another login option, GoogleOAuth, utilizing the GoogleCloud API.
 
-https://github.com/BariBariGood/SecretsProject-GoogleOAuth/assets/108381046/8c970f91-36e9-429e-a24d-6ca296bf8ea6
+
+https://github.com/BariBariGood/SecretsProject-GoogleOAuth/assets/108381046/cc037246-9ca4-4069-9634-9079a61ba310
 
