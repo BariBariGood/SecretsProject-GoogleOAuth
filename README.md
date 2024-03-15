@@ -1,4 +1,5 @@
 # SECRETS PROJECT
+By: Ivan Del Rio
 
 Full-Stack web-dev project featuring a dynamic login system with saved user information.
 Utilizes PostgreSQL and pgAdmin4 to store the data, written with expressJS to create a dynamic user experience.
