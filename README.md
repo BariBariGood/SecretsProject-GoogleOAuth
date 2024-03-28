@@ -6,7 +6,11 @@ By: Ivan Del Rio
 
 https://github.com/BariBariGood/SecretsProject-GoogleOAuth/assets/108381046/cc037246-9ca4-4069-9634-9079a61ba310
 
-The **Secrets Project** is a full-stack web development endeavor by Ivan Del Rio. It features a dynamic login system with saved user information, leveraging PostgreSQL and pgAdmin4 for data storage, and written with expressJS to provide a dynamic user experience. The project also includes a custom OAuth option that salts and encrypts passwords for enhanced security.
+
+- **Secrets Project**: Full-stack web development featuring dynamic login system with saved user data.
+  - Utilized PostgreSQL and pgAdmin4 for data storage.
+  - Implemented custom OAuth for enhanced security with password salting and encryption.
+
 
 ## Features
 
