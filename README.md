@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+https://github.com/BariBariGood/SecretsProject-GoogleOAuth/assets/108381046/cc037246-9ca4-4069-9634-9079a61ba310
+
 The **Secrets Project** is a full-stack web development endeavor by Ivan Del Rio. It features a dynamic login system with saved user information, leveraging PostgreSQL and pgAdmin4 for data storage, and written with expressJS to provide a dynamic user experience. The project also includes a custom OAuth option that salts and encrypts passwords for enhanced security.
 
 ## Features
@@ -46,15 +49,4 @@ Visit `http://localhost:3000` in your web browser to access the application.
 - pgAdmin4
 - GoogleCloud API
 
-## Contributors
-
-- Ivan Del Rio
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```markdown
-
-
-https://github.com/BariBariGood/SecretsProject-GoogleOAuth/assets/108381046/cc037246-9ca4-4069-9634-9079a61ba310
 
