@@ -1,4 +1,5 @@
 # SECRETS PROJECT
+By: Ivan Del Rio
 
 ## Overview
 
